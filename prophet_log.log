@@ -1,0 +1,60 @@
+2024-11-18 13:16:50,689 - INFO - Testing data creation
+2024-11-18 13:16:50,689 - INFO - Creating data
+2024-11-18 13:16:50,691 - INFO - Data creation complete
+2024-11-18 13:16:50,691 - INFO - Data creation test passed
+2024-11-18 13:16:50,691 - INFO - Testing Prophet model fitting
+2024-11-18 13:16:50,691 - INFO - Creating data
+2024-11-18 13:16:50,693 - INFO - Data creation complete
+2024-11-18 13:16:50,693 - INFO - Fitting Prophet models
+2024-11-18 13:16:54,669 - INFO - Prophet models fitting complete
+2024-11-18 13:16:54,669 - INFO - Prophet model fitting test passed
+2024-11-18 13:16:54,685 - INFO - Testing forecasting and metrics calculation
+2024-11-18 13:16:54,685 - INFO - Creating data
+2024-11-18 13:16:54,685 - INFO - Data creation complete
+2024-11-18 13:16:54,696 - INFO - Fitting Prophet models
+2024-11-18 13:16:58,891 - INFO - Prophet models fitting complete
+2024-11-18 13:16:58,891 - INFO - Making predictions for forecast horizon: 5
+2024-11-18 13:16:58,926 - INFO - Predictions complete
+2024-11-18 13:16:58,943 - INFO - Calculating metrics
+2024-11-18 13:16:58,945 - INFO - Metrics calculation complete
+2024-11-18 13:16:58,946 - INFO - Forecasting and metrics calculation test passed
+2024-11-18 14:15:36,963 - INFO - Testing data creation
+2024-11-18 14:15:36,963 - INFO - Creating data
+2024-11-18 14:15:36,963 - INFO - Data creation complete
+2024-11-18 14:15:36,963 - INFO - Data creation test passed
+2024-11-18 14:15:36,963 - INFO - Testing Prophet model fitting
+2024-11-18 14:15:36,963 - INFO - Creating data
+2024-11-18 14:15:36,963 - INFO - Data creation complete
+2024-11-18 14:15:36,963 - INFO - Fitting Prophet models
+2024-11-18 14:15:41,505 - INFO - Prophet models fitting complete
+2024-11-18 14:15:41,505 - INFO - Prophet model fitting test passed
+2024-11-18 14:15:41,505 - INFO - Testing forecasting and metrics calculation
+2024-11-18 14:15:41,505 - INFO - Creating data
+2024-11-18 14:15:41,505 - INFO - Data creation complete
+2024-11-18 14:15:41,505 - INFO - Fitting Prophet models
+2024-11-18 14:15:45,753 - INFO - Prophet models fitting complete
+2024-11-18 14:15:45,753 - INFO - Making predictions for forecast horizon: 5
+2024-11-18 14:15:45,782 - INFO - Predictions complete
+2024-11-18 14:15:45,782 - INFO - Calculating metrics
+2024-11-18 14:15:45,782 - INFO - Metrics calculation complete
+2024-11-18 14:15:45,782 - INFO - Forecasting and metrics calculation test passed
+2024-11-18 18:59:19,120 - INFO - Testing data creation
+2024-11-18 18:59:19,120 - INFO - Creating data
+2024-11-18 18:59:19,121 - INFO - Data creation complete
+2024-11-18 18:59:19,122 - INFO - Data creation test passed
+2024-11-18 18:59:19,122 - INFO - Testing Prophet model fitting
+2024-11-18 18:59:19,122 - INFO - Creating data
+2024-11-18 18:59:19,124 - INFO - Data creation complete
+2024-11-18 18:59:19,124 - INFO - Fitting Prophet models
+2024-11-18 18:59:23,892 - INFO - Prophet models fitting complete
+2024-11-18 18:59:23,892 - INFO - Prophet model fitting test passed
+2024-11-18 18:59:23,893 - INFO - Testing forecasting and metrics calculation
+2024-11-18 18:59:23,893 - INFO - Creating data
+2024-11-18 18:59:23,894 - INFO - Data creation complete
+2024-11-18 18:59:23,894 - INFO - Fitting Prophet models
+2024-11-18 18:59:28,629 - INFO - Prophet models fitting complete
+2024-11-18 18:59:28,629 - INFO - Making predictions for forecast horizon: 5
+2024-11-18 18:59:28,680 - INFO - Predictions complete
+2024-11-18 18:59:28,682 - INFO - Calculating metrics
+2024-11-18 18:59:28,684 - INFO - Metrics calculation complete
+2024-11-18 18:59:28,684 - INFO - Forecasting and metrics calculation test passed
